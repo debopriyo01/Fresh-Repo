@@ -17,8 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>springBootMaven</finalName>
-    
+    <finalName>springBootMaven</finalName><defaultGoal>Hallow</defaultGoal>    
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
